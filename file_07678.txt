@@ -1,0 +1,3 @@
+This is file number 7678
+Content for testing git performance
+File created for reproduction of issue
