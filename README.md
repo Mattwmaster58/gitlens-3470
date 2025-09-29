@@ -1,0 +1,1 @@
+for: https://github.com/gitkraken/vscode-gitlens/issues/3470
